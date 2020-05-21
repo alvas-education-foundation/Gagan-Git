@@ -26,3 +26,7 @@ if type(output) == list:
         print(item)
 else:
     print(output)
+
+
+
+#This is final code which has overcome the previous problems
